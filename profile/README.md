@@ -1,3 +1,5 @@
+![LX media logo](https://lx-media.at/wp-content/uploads/2020/03/LX-media-logo.png)
+
 # If work isn’t fun, you are not playing on the right team.
 <sub>Working at LX media<sub>
 
