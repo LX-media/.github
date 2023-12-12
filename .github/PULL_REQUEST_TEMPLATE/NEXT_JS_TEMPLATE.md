@@ -3,6 +3,8 @@
 <!-- Describe your changes in detail. The sections suggested are intended to make -->
 <!-- it easy to create a descriptive PR that is easy to review. Change as needed! -->
 
+what has been changed?
+
 ## Motivation / Context
 
 <!-- Why is this change required? What problem does it solve? -->
@@ -12,13 +14,17 @@
 
 <!-- Describe how you tested your changes and/or how a reviewer can test your changes. -->
 
+what has to be tested?
+
+## Checklist
+
+- [ ] PR documented
+- [ ] Code Review done according to [our guidelines](https://github.com/LX-media/lx-shared/blob/main/CODE_REVIEW_GUIDELINES.md)
+- [ ] Manual/local testing
+
 ## Screenshots
 
 <!-- Would including screenshots be helpful to the reviewer? -->
-
-## Documentation
-
-<!-- Do any of the changes warrant documentation updates? -->
 
 ## Tickets
 
