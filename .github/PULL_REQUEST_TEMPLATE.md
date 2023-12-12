@@ -1,21 +1,16 @@
-## Description
+Please go the the `Preview` tab and select the appropriate sub-template:
 
-<!-- Describe your changes in detail. The sections suggested are intended to make -->
-<!-- it easy to create a descriptive PR that is easy to review. Change as needed! -->
+- [Next.js Project](?expand=1&template=NEXT_JS_TEMPLATE.md)
+- or delete this and the above and use the following default template:
 
-## Motivation / Context
+## What?
 
-<!-- Why is this change required? What problem does it solve? -->
-<!-- If it fixes or is related to an open issue, link to the issue here. -->
+## Why?
 
-## Testing Instructions / How This Has Been Tested
+## How?
 
-<!-- Describe how you tested your changes and/or how a reviewer can test your changes. -->
+Reference(s): <!-- insert helpful URLs -->
 
-## Screenshots
+## Tickets
 
-<!-- Would including screenshots be helpful to the reviewer? -->
-
-## Documentation
-
-<!-- Do any of the changes warrant documentation updates? -->
+- Closes/Fixes: <!-- add link to Click-Up ticket -->
