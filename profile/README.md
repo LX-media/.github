@@ -1,4 +1,4 @@
-![LX media logo](https://lx-media.at/wp-content/uploads/2020/03/LX-media-logo.png)
+![LX media logo](./LX-media-logo.png)
 
 # If work isn’t fun, you are not playing on the right team.
 <sub>Working at LX media<sub>
@@ -12,4 +12,4 @@ At LX Media, we’re open and transparent. That’s why we give each other const
 Our motto is: **Ditch the comfort zone!** Set high standards and never settle for less.
 
 ## Join us.
-Have a look at our open positions: [Careers | LX media](https://lx-media.at/en/careers/)
+Have a look at our open positions: [Careers | LX media](https://lx-media-gmbh.jobs.personio.de/)
