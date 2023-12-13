@@ -1,4 +1,4 @@
-![LX media logo](./LX-media-logo.png)
+![LX media logo](./profile/LX-media-logo.png)
 
 # If work isn't fun, you are not playing on the right team.
 <sub>Working at LX media<sub>
