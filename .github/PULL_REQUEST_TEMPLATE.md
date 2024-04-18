@@ -1,3 +1,5 @@
+# Your Pull Request
+
 Please go the the `Preview` tab and select the appropriate sub-template:
 
 - [Next.js Project](?expand=1&template=NEXT_JS_TEMPLATE.md)
@@ -10,6 +12,12 @@ Please go the the `Preview` tab and select the appropriate sub-template:
 ## How?
 
 Reference(s): <!-- insert helpful URLs -->
+
+## Checklist
+
+- [ ] PR documented
+- [ ] Code Review done according to [our guidelines](https://github.com/LX-media/lx-shared/blob/main/code-review-guideline.md)
+- [ ] Manual/local testing
 
 ## Tickets
 
