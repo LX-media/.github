@@ -1,3 +1,5 @@
+# Your Pull Request
+
 ## Description
 
 <!-- Describe your changes in detail. The sections suggested are intended to make -->
@@ -19,7 +21,7 @@ what has to be tested?
 ## Checklist
 
 - [ ] PR documented
-- [ ] Code Review done according to [our guidelines](https://github.com/LX-media/lx-shared/blob/main/CODE_REVIEW_GUIDELINES.md)
+- [ ] Code Review done according to [our guidelines](https://github.com/LX-media/lx-shared/blob/main/code-review-guideline.md)
 - [ ] Manual/local testing
 
 ## Screenshots
