@@ -30,7 +30,3 @@ what has to be tested?
 ## Screenshots
 
 <!-- Would including screenshots be helpful to the reviewer? -->
-
-## Tickets
-
-- Closes/Fixes: <!-- add link to Click-Up ticket -->
