@@ -1,14 +1,12 @@
 # Your Pull Request
-
-> [!CAUTION]
-> If you do not fill out this template there will be consequences. 🔫🤯
+<!-- Shortly describe the PR, don't just leave "Your Pull Request"-->
 
 ## Description
 
 <!-- Describe your changes in detail. The sections suggested are intended to make -->
 <!-- it easy to create a descriptive PR that is easy to review. Change as needed! -->
 
-what has been changed?
+What has been changed?
 
 ## Motivation / Context
 
@@ -19,7 +17,7 @@ what has been changed?
 
 <!-- Describe how you tested your changes and/or how a reviewer can test your changes. -->
 
-what has to be tested?
+What has to be tested?
 
 ## Checklist
 
