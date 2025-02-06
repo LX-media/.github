@@ -1,15 +1,7 @@
 ![LX media logo](./LX-media_Logo_cyberlime.png)
 
-# If work isn't fun, you are not playing on the right team.
-<sub>Working at LX media<sub>
+# We create holistic digital experiences.
 
+Welcome to LX media, where creativity meets digital innovation. Picture a vibrant international team of 40+ digital experts, all believing in the power of simplicity and with that in mind crafting digital solutions around the complex challenges of our clients.
 
-## Make it happen.
-We all have different backgrounds and goals in life, but we have one thing in common: **We all do our best.**
-
-At LX Media, we're open and transparent. That's why we give each other constructive feedback. Because there's always room for improvement.
-
-Our motto is: **Ditch the comfort zone!** Set high standards and never settle for less.
-
-## Join us.
-Have a look at our open positions: [Careers | LX media](https://lx-media-gmbh.jobs.personio.de/)
+Visit us: [lx-media.at](https://lx-media.at?source=github)
